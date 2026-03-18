@@ -23,8 +23,8 @@
     --muted: 0 0% 15%;
     --muted-foreground: 0 0% 40%;
 
-    --accent: 45 100% 55%;
-    --accent-foreground: 0 0% 10%;
+    --accent: 263 70% 58%;
+    --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 96%;
@@ -34,10 +34,10 @@
     --ring: 0 85% 55%;
 
     --chart-1: 0 85% 55%;
-    --chart-2: 45 100% 55%;
-    --chart-3: 15 90% 55%;
-    --chart-4: 35 95% 55%;
-    --chart-5: 350 80% 50%;
+    --chart-2: 263 70% 58%;
+    --chart-3: 280 60% 50%;
+    --chart-4: 330 80% 55%;
+    --chart-5: 250 70% 50%;
 
     --radius: 0.75rem;
 
@@ -70,8 +70,8 @@
     --muted: 0 0% 15%;
     --muted-foreground: 0 0% 40%;
 
-    --accent: 45 100% 55%;
-    --accent-foreground: 0 0% 10%;
+    --accent: 263 70% 58%;
+    --accent-foreground: 0 0% 100%;
 
     --destructive: 0 62% 30%;
     --destructive-foreground: 0 0% 96%;
