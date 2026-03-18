@@ -33,7 +33,7 @@ export function AboutSection({ scrollToSection }: { scrollToSection?: (index: nu
               style={{ transitionDelay: "200ms" }}
             >
               <p className="max-w-md text-sm leading-relaxed text-foreground/90 md:text-lg">
-                FitPulse объединяет все аспекты здорового образа жизни в одном месте — питание, тренировки, сон и гидратация.
+                HomeFitness объединяет все аспекты здорового образа жизни в одном месте — питание, тренировки, сон и гидратация.
               </p>
               <p className="max-w-md text-sm leading-relaxed text-foreground/90 md:text-lg">
                 Умная аналитика подстраивается под ваши цели: похудение, набор массы или поддержание формы — мы знаем, как вам помочь.
