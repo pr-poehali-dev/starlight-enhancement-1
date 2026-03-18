@@ -15,31 +15,31 @@ export function ServicesSection() {
           }`}
         >
           <h2 className="mb-2 font-sans text-5xl font-light tracking-tight text-foreground md:text-6xl lg:text-7xl">
-            Услуги
+            Модули
           </h2>
-          <p className="font-mono text-sm text-foreground/60 md:text-base">/ Наши компетенции</p>
+          <p className="font-mono text-sm text-foreground/60 md:text-base">/ Всё для здорового образа жизни</p>
         </div>
 
         <div className="grid gap-8 md:grid-cols-2 md:gap-x-16 md:gap-y-12 lg:gap-x-24">
           {[
             {
-              title: "Веб-разработка",
-              description: "Создание современных веб-приложений любой сложности",
+              title: "Питание и КБЖУ",
+              description: "Калькулятор калорий, база продуктов со сканером штрихкодов, шаблоны рационов и рецепты здоровых блюд",
               direction: "top",
             },
             {
-              title: "UI/UX Дизайн",
-              description: "Проектирование удобных и красивых интерфейсов",
+              title: "Тренировки",
+              description: "Библиотека упражнений с видео, готовые программы по целям и уровню, конструктор индивидуальных планов",
               direction: "right",
             },
             {
-              title: "Мобильные приложения",
-              description: "Кроссплатформенная разработка для iOS и Android",
+              title: "Вода и сон",
+              description: "Трекер потребления воды с напоминаниями, умный будильник, дневник качества сна и библиотека звуков",
               direction: "left",
             },
             {
-              title: "Консалтинг",
-              description: "Техническая экспертиза и стратегическое планирование",
+              title: "Расписание и аналитика",
+              description: "Календарь с цветовой маркировкой, дашборд с ключевыми метриками, графики БЖУ и прогресс тела",
               direction: "bottom",
             },
           ].map((service, i) => (
